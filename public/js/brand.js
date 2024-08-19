@@ -31,13 +31,13 @@ const footer = document.getElementById('footer');
 const brand = {
     app: {
         name: 'MiroTalk',
-        title: 'MiroTalk<br />Free browser based Real-time video calls.<br />Simple, Secure, Fast.',
+        title: 'VideoRoom APP.',
         description:
             'Start your next video call with a single click. No download, plug-in, or login is required. Just get straight to talking, messaging, and sharing your screen.',
     },
     site: {
-        landingTitle: 'MiroTalk a Free Secure Video Calls, Chat & Screen Sharing.',
-        newCallTitle: 'MiroTalk a Free Secure Video Calls, Chat & Screen Sharing.',
+        landingTitle: '',
+        newCallTitle: '',
         loginTitle: 'MiroTalk - Host Protected login required.',
         clientTitle: 'MiroTalk WebRTC Video call, Chat Room & Screen Sharing.',
         privacyPolicyTitle: 'MiroTalk - privacy and policy.',
