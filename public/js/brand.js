@@ -49,12 +49,12 @@ const brand = {
     html: {
         features: true,
         browsers: true,
-        teams: true, // please keep me always true ;)
+        teams: false, // please keep me always true ;)
         tryEasier: true,
-        poweredBy: true,
+        poweredBy: false,
         sponsors: true,
-        advertisers: true,
-        footer: true,
+        advertisers: false,
+        footer: false,
     },
     //...
 };
